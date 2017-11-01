@@ -51,7 +51,7 @@ version         1.0
          <pos>0.1875 0.175</pos>
          <size>0.45 0.675</size>
          <selectorColor>1c1c1c00</selectorColor>
-         <selectedColor>000000</selectedColor>
+         <selectedColor>e22828</selectedColor>
          <primaryColor>ffffff</primaryColor>
          <secondaryColor>ffffff</secondaryColor>
          <fontPath>./_inc/fonts/gunship.ttf</fontPath>
